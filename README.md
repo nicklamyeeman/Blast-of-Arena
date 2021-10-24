@@ -86,7 +86,7 @@ Just launch the game, you will have the option to create and host a game or dire
 
 Navigate throught the menu with your mouse and click on the option you want
 
-![fall](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/testing/fall.gif)
+![fall](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/Assets/README/fall.gif)
 
 
 Move around using :
@@ -95,7 +95,7 @@ Move around using :
 
 You can attack with mouse clicks
 
-![swamp](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/testing/swamp.gif)
+![swamp](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/Assets/README/swamp.gif)
 
 You have special powers with : 
 <kbd>A</kbd> : Bomb
@@ -104,7 +104,7 @@ You have special powers with :
 
 <kbd>Space</kbd> : Dash
 
-![snow](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/testing/snow.gif)
+![snow](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/Assets/README/snow.gif)
 
 Discover the different atmospheres of the game
 
@@ -112,7 +112,7 @@ Discover the different atmospheres of the game
 </br>
 This game is made to be a multiplayer game and we tried to do it with the less latency possible
 
-![latency](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/testing/latency.gif)
+![latency](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/Assets/README/latency.gif)
 
 ### BE CAREFUL
 
