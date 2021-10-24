@@ -5,7 +5,7 @@
     <img src="Assets/README/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Blast of Arena</h3>
+  <h3 align="center">BLAST OF ARENA</h3>
 
   <p align="center">
     A game made for the 1st semester in Korea, in Keimyung University
