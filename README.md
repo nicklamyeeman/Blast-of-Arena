@@ -44,7 +44,7 @@ This game is a rogue like / Moba in multiplayer where the goal is to survive eac
 This project was realized in the framework of a school project in South Korea.
 
 
-Check out the gameplay made for this game here : 
+Check out the trailer made for this game here : 
 [![youtube](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/Assets/README/youtube.png)](https://www.youtube.com/watch?v=JWyEN3qQDcw "Blast of Arena (2020) - Official Trailer - EN")
 
 If you want the trailer in French you can find it [here](https://www.youtube.com/watch?v=M0kCKw2tsxA)
