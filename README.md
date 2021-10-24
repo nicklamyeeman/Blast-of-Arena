@@ -42,6 +42,7 @@
 
 This game is a rogue like / Moba in multiplayer where the goal is to survive each round. The one who will have survived the most rounds wins the game.
 This project was realized in the framework of a school project in South Korea.
+A [Game Design Document](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/10pGDD.pdf) is available for this project.
 
 
 Check out the trailer made for this game here : 
