@@ -104,11 +104,10 @@ You have special powers with :
 
 <kbd>Space</kbd> : Dash
 
-![city](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/testing/city.gif)
+![snow](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/testing/snow.gif)
 
 Discover the different atmospheres of the game
 
-![snow](https://github.com/nicklamyeeman/Blast-of-Arena/blob/main/testing/snow.gif)
 
 </br>
 This game is made to be a multiplayer game and we tried to do it with the less latency possible
