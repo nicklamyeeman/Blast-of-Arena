@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Environment
+  - Enemy
+  - Spell1
+  - AutoAttack
+  - Dash
+  - Spell2
+  - Spell3
+  - Spell4
+  - SpawnPoint
+  - PlayerEntity
+  - RoundManager
+  - Vanish
+  - Spell5
+  - PlayerEnnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Mask
+  - BehindMask
+  - Environment
+  - Black
+  - PostProcess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ArenaBackground
+    uniqueID: 877370833
+    locked: 0
+  - name: ArenaDecorativeBackground
+    uniqueID: 1507462439
+    locked: 0
+  - name: GameObjects
+    uniqueID: 195204097
+    locked: 0
+  - name: Player
+    uniqueID: 681802215
+    locked: 0
+  - name: ArenaDecorative
+    uniqueID: 1466605923
+    locked: 0
